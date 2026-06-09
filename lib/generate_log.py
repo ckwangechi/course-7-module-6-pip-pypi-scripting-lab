@@ -24,5 +24,4 @@ def generate_log(data):
     print(f"Log generated: {filename}")
      
     return filename
-
     pass
